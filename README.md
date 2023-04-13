@@ -142,10 +142,9 @@ cv2.destroyAllWindows()
 
 
 ### v) Split and merge HSV Image
-<br>
 ![f5](https://user-images.githubusercontent.com/94154941/231703916-d82f6392-6175-451e-b3ce-e824c3d2eea2.png)
 
-<br>
+
 
 
 ## Result:
