@@ -121,24 +121,23 @@ cv2.destroyAllWindows()
 
 ## Output:
 ### i) BGR and RGB to HSV and GRAY
-<br>
+
 ![f1](https://user-images.githubusercontent.com/94154941/231703767-dab356fb-2942-4f64-8769-66c4afeb4de4.png)
-<br>
+
 
 ### ii) HSV to RGB and BGR
-<br>
+
 ![f2](https://user-images.githubusercontent.com/94154941/231703789-797f87e4-a50b-4422-8ebe-cd6c360ebe7a.png)
-<br>
 
 ### iii) RGB and BGR to YCrCb
-<br>
+
 ![f3](https://user-images.githubusercontent.com/94154941/231703861-0fd2103c-9c56-4ef9-bca3-cdb750911cd5.png)
-<br>
+
 
 ### iv) Split and merge RGB Image
-<br>
+
 ![f4](https://user-images.githubusercontent.com/94154941/231703888-a9a7b03d-e465-4041-86a6-5e8162b50c93.png)
-<br>
+
 
 
 ### v) Split and merge HSV Image
