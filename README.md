@@ -26,6 +26,7 @@ Anaconda - Python 3.7
 # Register Number:212221230076
 # i) Convert BGR and RGB to HSV and GRAY
 ```
+```
 import cv2
 img = cv2.imread('th.jpeg')
 cv2.imshow('original',img)
@@ -117,7 +118,7 @@ cv2.destroyAllWindows()
 
 
 
-```
+
 ## Output:
 ### i) BGR and RGB to HSV and GRAY
 <br>
